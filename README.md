@@ -1,2 +1,2 @@
-# http://tbird18bro.github.io
+https://github.com/tbirb18bro/tbird18bro.github.io.git
 
